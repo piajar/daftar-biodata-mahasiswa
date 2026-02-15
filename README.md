@@ -7,4 +7,4 @@ Daftar biodata siswa Dicoding Academy
 - Angkatan 2020
 - Angkatan 2021
 
-This version will be one step ahead from main branch
+This version gonna be one step ahead from main branch
