@@ -8,3 +8,4 @@ Daftar biodata siswa Dicoding Academy
 - Angkatan 2021
 
 This version will be one step ahead from main branch
+Lagu yang akan saya jadikan perbedaan disini adalah Gata Only
